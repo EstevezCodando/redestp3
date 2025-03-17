@@ -1,0 +1,5 @@
+requests
+cryptography
+pyOpenSSL
+flask
+paramiko
